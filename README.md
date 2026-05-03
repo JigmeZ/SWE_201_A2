@@ -47,22 +47,34 @@ The codebase uses reusable components to keep the app organized and readable, in
 
 ## Screenshots To Submit
 - Home Screen
+  
 ![alt text](Images/Home.jpg)
 
-- Category 
+
+- Category
+  
 ![alt text](Images/Categories.jpg)
 
+
 - Detail Screen
+  
 ![alt text](Images/detail.jpg)
 
-- Profile 
+
+- Profile
+  
 ![alt text](Images/Profile.jpg)
 
+
 - Animation Demo Screen
+  
 ![alt text](Images/Animation.jpg)
 
+
 - Packing Checklist Screen
+  
 ![alt text](Images/Packing.jpg)
+
 
 ## Conclusion
 
